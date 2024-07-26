@@ -1,0 +1,27 @@
+.main{
+    padding:1%;
+    width: 13%;
+    background-color: darkgrey;
+    border: 3px solid gray;
+}
+button{
+    width:44px;
+    height:44px;
+    padding-right: 8px;
+    margin-top: 6px;
+    border: none;
+    border-radius: 2px;
+    font-size: 15px;
+    background-color: darkslategray;
+}
+input{
+    width:185px;
+    height:34px;
+    background-color: rgb(43, 42, 42);
+    color: white;
+    border: none;
+    border-radius: 2px;
+}
+button:hover{
+    background-color: aquamarine;
+}

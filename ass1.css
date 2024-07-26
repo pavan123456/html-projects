@@ -1,0 +1,43 @@
+.but {
+    height: 30px;
+    width: 200px;
+    border: 5px solid black;
+    margin-left:100px;
+    margin-top: 20px;
+}
+.but::before{
+    
+}
+.but::after{
+    content: "tyv";
+}
+p{
+    padding-left: 100px;
+}
+p::first-letter{
+    text-transform: uppercase;
+    color: red;
+    font-size: 30px;
+}
+.orange{
+    background-color: orangered;
+    border:3px dotted green;
+}
+.yellow{
+    background-color: yellow;
+}
+.green{
+    background-color: green;
+}
+.green:focus{
+    border: 4px solid blue;
+    background-color: white;
+}
+.yellow:focus{
+    border: 4px solid blue;
+    background-color: white;
+}
+.orange:focus{
+    border: 4px solid blue;
+    background-color: white;
+}

@@ -1,0 +1,77 @@
+
+.amz-img{
+    height:85px;
+    width:140px;
+    position: fixed top;
+}
+.main{
+    position:absolute;
+    left:25px;
+    top:85px;
+    width:800px;
+    height:300px;
+    border: 2px solid gray;
+    padding: 15px;
+}
+img{
+    height:80px;
+    width:80px
+}
+#gred{
+    font-size: 30px;
+    color: green;
+}
+.exp{
+    position: absolute;
+    top:70px;
+    left:130px;
+}
+#red{
+    color: red;
+}
+#blue{
+    color:blue;
+}
+.exp-no{
+    position:absolute;
+    top:95px;
+    left:500px;
+}
+#gred{
+   color:forestgreen
+}
+span{
+    color:forestgreen;
+}
+input{
+    color:blue;
+}
+.public{
+    position: absolute;
+    left:870px;
+    top:85px;
+    height: 400px;
+    width: 550px;
+    border:2px solid gray;
+    padding: 15px;
+
+}
+.private{
+    position:absolute;
+    left:450px;
+    top:50px;
+}
+button{
+    width:500px;
+    height: 30px;
+    border-radius: 3px;
+    border:none;
+    background-color: yellow;
+    margin-left: 20px;
+}
+div{
+    font-size: 23px;
+}
+h1{
+    font-size: 35px;
+}

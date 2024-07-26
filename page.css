@@ -1,0 +1,142 @@
+img{
+    height:80px;
+    width:80px;
+
+}
+.top{
+    position:absolute;
+    top:30px;
+    right:0px;
+}
+button{
+    height:35px;
+    border:none
+}
+#signin{
+    background-color: white;
+}
+#create{
+    background-color: orangered;
+    color: white;
+}
+#main{
+    background-color: darkorange;
+    color:white
+}
+#user{
+    background-color: black;
+    color: white;
+}
+.tiger{
+    height:40%;
+    width:100%;
+    border: 2px solid gray;
+    background-image: url("https://images.pexels.com/photos/673020/pexels-photo-673020.jpeg?cs=srgb&dl=pexels-eberhardgross-673020.jpg&fm=jpg");
+    background-size: cover;
+}
+#blue{
+    margin-top: 30px;
+    margin-left: 30px;
+    width:100px;
+    height:20px;
+    background-color: orangered;
+
+}
+h1{
+    padding-left: 30px;
+
+}
+#wild{
+    color:orangered
+}
+#dist{
+    padding-left: 30px;
+    
+}
+.white{ 
+    width: 100%;
+
+}
+#orange{
+    padding-top: 10px;
+    color: orangered;
+    font-size: 50px;
+    padding-left: 55px;
+}
+#hello{
+    font-size: 20px;
+    color: black;
+}
+.side{
+    position:absolute;
+    left:400px;
+    top:370px
+}
+.sol{
+    position:absolute;
+    left:400px;
+    top:0px
+}
+.paul{
+    position:absolute;
+    left:400px;
+    top:0px
+}
+.black{
+    width:500px;
+    height: 300px;
+    border:2px solid grey;
+    background-color: black;
+    color:white;
+}
+h2{
+    padding-left: 30px;
+    padding-top: 30px;
+}
+p{
+    padding-left: 30px;
+    padding-right: 70px
+}
+
+#left{
+    margin-left: 30px;
+    background-color: black;
+    color: white;
+    border:2px solid white
+}
+.image{
+    position:absolute;
+    left:510px;
+    top:550px;
+    height:300px;
+    width:400px;
+    background-image:url("https://img.freepik.com/free-photo/man-his-back-with-his-hands-up_1187-1748.jpg?size=626&ext=jpg&ga=GA1.1.1310286825.1700920863&semt=ais_user");
+}
+.cold{
+    position: absolute;
+    top:0px;
+    left:405px;
+    height:300px;
+    width:550px;
+    background-color:skyblue
+}
+#high{
+    padding-left: 100px;
+}
+#pad{
+    padding-left: 100px;
+}
+#boss{
+    margin-left: 100px;
+    color: white;
+    background-color: skyblue;
+    border:2px solid white
+}
+#start{
+    position: absolute;
+    top:350px;
+    left:150px;
+    width: 300px;
+    background-color: black;
+    color: white;
+}

@@ -1,0 +1,28 @@
+1.first of all install gitbash
+2.ssh-keygen -t ed25519 -C pavanabburi929@gmail.com
+3.create ssh and paste the value into ssh 
+
+
+
+
+
+
+git config
+git init
+git clone
+git add
+git commit
+git diff
+git reset
+git status
+git rm
+git log
+git show
+git tag
+git branch
+git checkout
+git merge
+git remote
+git push
+git pull
+git stash

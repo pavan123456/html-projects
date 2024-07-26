@@ -1,0 +1,22 @@
+.heading{
+    background-color:teal;
+}
+div{
+    background-color: yellow;
+}
+#white{
+    background-color: white;
+}
+.form-group{
+    background-color: pink;
+}
+input{
+    background-color: pink;
+}
+#range{
+    background-color: blue;
+}
+#custom{
+    background-color: white
+    ;
+}

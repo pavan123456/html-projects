@@ -1,0 +1,66 @@
+
+table{
+    border: 2px solid gray;
+    border-collapse: collapse;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+#blue tr:nth-child(even){
+    background-color: skyblue;
+}
+thead,tr,td{
+    height: 50px;
+    width: 130px;
+
+}
+
+tr td{
+    border: 2px dotted black;
+    color: rgb(9, 138, 189);
+    border-collapse: collapse;
+}
+thead td{
+    border: 2px solid gray;
+    background-color: skyblue;
+    padding: 3%;
+    text-align: center;
+    color:darkolivegreen
+}
+#redborder{
+    border:2px solid palevioletred;
+}
+#redborder thead td{
+    background-color: palevioletred ;
+}
+#redborder tr:nth-child(2n){
+    background-color:palevioletred ;
+
+}
+#redborder tr:nth-child(2){
+    background-color: white;
+}
+#noborder,#noborder tr td{
+    border:none;
+}
+
+#noborder tr:first-child td:first-child{
+    background-color: red;
+
+}
+#noborder tr:nth-child(even) td:nth-child(4){
+    background-color: yellow;
+}
+#noborder tr:nth-child(odd) td:nth-child(2){
+    background-color: green;
+}
+#noborder tr:nth-child(3n+1) td:nth-child(3){
+    background-color: yellow;
+}
+#noborder thead td{
+    background-color: white !important;
+}
+#noborder tr:last-child td:last-child{
+    background-color: blue;
+}
+
